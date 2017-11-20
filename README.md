@@ -3,6 +3,7 @@
 
 #How to Use : 
 	1 - open cmd in your folder path and enter:
+
 	python EmailFilter.py 
 
 
