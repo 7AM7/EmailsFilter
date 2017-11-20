@@ -3,9 +3,9 @@
 
 #How to Use : 
 	1 - open cmd in your folder path and enter:
-	python EmailFilter.py
+	python EmailFilter.py :)
 
-	2 - Just Enter Domain Name :)
+	2 - Just Enter Domain Name
 
 # Emails.txt Must Be Found 
 # BY: AM7
